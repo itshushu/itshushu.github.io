@@ -26,7 +26,7 @@
 *****
 
 
-![我的头像](https://avatars1.githubusercontent.com/u/34762745?s=460&v=4 "我的头像" =100x100)
+![我的头像](https://avatars1.githubusercontent.com/u/34762745?s=460&v=4 "我的头像")
 
 
 
